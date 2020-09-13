@@ -1,8 +1,6 @@
-package com.example.ontoligija;
+package ffos.p3.Milic;
 
-import android.content.Context;
 import android.os.Bundle;
-import android.util.AttributeSet;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -19,6 +17,7 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonArrayRequest;
 import com.android.volley.toolbox.Volley;
+import com.example.ontoligija.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;

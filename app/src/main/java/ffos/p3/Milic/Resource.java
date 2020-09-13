@@ -1,4 +1,4 @@
-package com.example.ontoligija;
+package ffos.p3.Milic;
 
 public class Resource {
     private String mResourceName;
