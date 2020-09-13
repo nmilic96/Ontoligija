@@ -17,7 +17,7 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonArrayRequest;
 import com.android.volley.toolbox.Volley;
-import com.example.ontoligija.R;
+import ffos.p3.Milic.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;

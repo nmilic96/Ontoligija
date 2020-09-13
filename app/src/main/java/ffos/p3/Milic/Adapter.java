@@ -9,7 +9,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.ontoligija.R;
+import ffos.p3.Milic.R;
 
 import java.util.ArrayList;
 
